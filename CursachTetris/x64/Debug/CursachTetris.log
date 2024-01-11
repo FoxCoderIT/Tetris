@@ -1,0 +1,52 @@
+﻿  main.cpp
+C:\Users\Yana Heorhieva\OneDrive\Рабочий стол\ME\NURE\1 КУРС\2 СЕМЕСТР\ОПн\ЛАБ\CursachTetris\CursachTetris\main.cpp(52,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Yana Heorhieva\OneDrive\Рабочий стол\ME\NURE\1 КУРС\2 СЕМЕСТР\ОПн\ЛАБ\CursachTetris\CursachTetris\main.cpp(84,28): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Yana Heorhieva\OneDrive\Рабочий стол\ME\NURE\1 КУРС\2 СЕМЕСТР\ОПн\ЛАБ\CursachTetris\CursachTetris\main.cpp(165,21): warning C4305: =: усечение из "double" в "float"
+C:\Users\Yana Heorhieva\OneDrive\Рабочий стол\ME\NURE\1 КУРС\2 СЕМЕСТР\ОПн\ЛАБ\CursachTetris\CursachTetris\main.cpp(180,61): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Yana Heorhieva\OneDrive\Рабочий стол\ME\NURE\1 КУРС\2 СЕМЕСТР\ОПн\ЛАБ\CursachTetris\CursachTetris\main.cpp(180,50): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Yana Heorhieva\OneDrive\Рабочий стол\ME\NURE\1 КУРС\2 СЕМЕСТР\ОПн\ЛАБ\CursachTetris\CursachTetris\main.cpp(266,68): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Yana Heorhieva\OneDrive\Рабочий стол\ME\NURE\1 КУРС\2 СЕМЕСТР\ОПн\ЛАБ\CursachTetris\CursachTetris\main.cpp(266,57): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Yana Heorhieva\OneDrive\Рабочий стол\ME\NURE\1 КУРС\2 СЕМЕСТР\ОПн\ЛАБ\CursachTetris\CursachTetris\main.cpp(340,21): warning C4305: =: усечение из "double" в "float"
+C:\Users\Yana Heorhieva\OneDrive\Рабочий стол\ME\NURE\1 КУРС\2 СЕМЕСТР\ОПн\ЛАБ\CursachTetris\CursachTetris\main.cpp(361,49): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Yana Heorhieva\OneDrive\Рабочий стол\ME\NURE\1 КУРС\2 СЕМЕСТР\ОПн\ЛАБ\CursachTetris\CursachTetris\main.cpp(361,46): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Yana Heorhieva\OneDrive\Рабочий стол\ME\NURE\1 КУРС\2 СЕМЕСТР\ОПн\ЛАБ\CursachTetris\CursachTetris\main.cpp(366,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Yana Heorhieva\OneDrive\Рабочий стол\ME\NURE\1 КУРС\2 СЕМЕСТР\ОПн\ЛАБ\CursachTetris\CursachTetris\main.cpp(366,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Yana Heorhieva\OneDrive\Рабочий стол\ME\NURE\1 КУРС\2 СЕМЕСТР\ОПн\ЛАБ\CursachTetris\CursachTetris\main.cpp(380,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Yana Heorhieva\OneDrive\Рабочий стол\ME\NURE\1 КУРС\2 СЕМЕСТР\ОПн\ЛАБ\CursachTetris\CursachTetris\main.cpp(380,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Yana Heorhieva\OneDrive\Рабочий стол\ME\NURE\1 КУРС\2 СЕМЕСТР\ОПн\ЛАБ\CursachTetris\CursachTetris\main.cpp(387,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Yana Heorhieva\OneDrive\Рабочий стол\ME\NURE\1 КУРС\2 СЕМЕСТР\ОПн\ЛАБ\CursachTetris\CursachTetris\main.cpp(387,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Yana Heorhieva\OneDrive\Рабочий стол\ME\NURE\1 КУРС\2 СЕМЕСТР\ОПн\ЛАБ\CursachTetris\CursachTetris\main.cpp(410,61): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Yana Heorhieva\OneDrive\Рабочий стол\ME\NURE\1 КУРС\2 СЕМЕСТР\ОПн\ЛАБ\CursachTetris\CursachTetris\main.cpp(410,50): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  CursachTetris.vcxproj -> C:\Users\Yana Heorhieva\OneDrive\Рабочий стол\ME\NURE\1 КУРС\2 СЕМЕСТР\ОПн\ЛАБ\CursachTetris\x64\Debug\CursachTetris.exe
